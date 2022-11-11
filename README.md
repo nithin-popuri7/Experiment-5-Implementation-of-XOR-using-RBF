@@ -46,17 +46,17 @@ The RBF of hidden neuron as gaussian function
 7.index[2]: Bias input (1).
 Y: Output associated with the input (shape: (4, )).
 
-W is calculated using the same equation we use to solve linear regression using a closed solution (normal equation).
+8.W is calculated using the same equation we use to solve linear regression using a closed solution (normal equation).
 
-8.This part is the same as using a neural network architecture of 2-2-1,
+9.This part is the same as using a neural network architecture of 2-2-1,
 
-2 node input (x1, x2) (input layer).
+  2 node input (x1, x2) (input layer).
 
-2 node (each for one peak) (hidden layer).
+  2 node (each for one peak) (hidden layer).
 
-1 node output (output layer).
+  1 node output (output layer).
 
-9.To find the weights for the edges to the 1-output unit. Weights associated would be:
+10.To find the weights for the edges to the 1-output unit. Weights associated would be:
 
 edge joining 1st node (peak1 output) to the output node
 
