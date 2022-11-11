@@ -132,6 +132,7 @@ Input:[1 1], Predicted: 0.0
 ![github.logo](nn1.png)
 
 ## RESULT:
+Thus The Implementation Of XOR Using RBF Is Completed Successfully.
 
 
 
