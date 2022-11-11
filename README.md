@@ -57,6 +57,7 @@ W is calculated using the same equation we use to solve linear regression using 
 1 node output (output layer).
 
 9.To find the weights for the edges to the 1-output unit. Weights associated would be:
+
 edge joining 1st node (peak1 output) to the output node
 
 edge joining 2nd node (peak2 output) to the output node
