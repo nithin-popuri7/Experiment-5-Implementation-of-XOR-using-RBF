@@ -31,8 +31,13 @@ The RBF of hidden neuron as gaussian function
 
 
 ## ALGORIHM:
+#### Step1:
 
-/** Write the Algorithm in steps**/
+#### Step2:
+
+#### Step3:
+
+#### Step 4:
 
 ## PROGRAM:
 ```
