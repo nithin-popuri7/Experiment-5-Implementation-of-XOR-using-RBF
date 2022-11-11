@@ -31,7 +31,7 @@ The RBF of hidden neuron as gaussian function
 
 
 ## ALGORIHM:
-#### Step1:
+#### Step1:Import the necessary libraries of python.
 
 #### Step2:
 
